@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Voz ER.IA",
+  "description": "Um aplicativo para transformar texto em fala com som natural usando a API Gemini. Digite seu texto, escolha uma voz e ouça a mágica acontecer.",
+  "requestFramePermissions": []
+}
